@@ -10,3 +10,9 @@ Team members: Ahmed Lassoued, Daniel Lim, Tristan Koh, Vasu Namdeo, Zen Goh
 
 ### Dependencies
 Install dependencies using ```pip install -r requirements.txt``` in your command line. If you use new packages not already included in [requirements.txt](/requirements.txt), make sure to update [requirements.txt](/requirements.txt).
+
+## Useful resources
+* [Time series analysis videos](https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3)
+* [Textbook on timeseries](https://otexts.com/fpp2/)
+* [ARIMA code example 1](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
+* [ARIMA code example 2](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
