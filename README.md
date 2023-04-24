@@ -16,3 +16,4 @@ Install dependencies using ```pip install -r requirements.txt``` in your command
 * [Textbook on timeseries](https://otexts.com/fpp2/)
 * [ARIMA code example 1](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
 * [ARIMA code example 2](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+* [Hierarchical time series forecasting](https://www.kaggle.com/code/konradb/ts-8-hierarchical-time-series/notebook)
